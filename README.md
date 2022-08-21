@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=50&pause=1000&color=2610B3&width=550&height=80&lines=Hi+!+%F0%9F%91%8B++I'm+Sim%C3%A9on+Zilu" alt="ExcaliburSims" />
 </h1>
 
-<h4 align="center"><em>Fullstack developer from Congo</em></h4>
+<h4 align="center"><em>Passionnate Fullstack developer from Congo DR</em></h4>
 
 <h2>👨🏻‍💻 About Me</h2>
 
